@@ -1,4 +1,4 @@
-# ContrastiveCross-teachingWithRegistration
+# (CCT-R)ContrastiveCross-teachingWithRegistration
 The codes for the work "Learning Semi-Supervised Medical Image Segmentation from Spatial Registration"[https://ieeexplore.ieee.org/abstract/document/10096379], which is accepted by WACV 2025.
 
 
@@ -39,4 +39,4 @@ sh my_test.sh
   organization={IEEE}
 }
 
-# CS-Unet
+# CCT-R
