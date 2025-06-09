@@ -1,5 +1,5 @@
 # ContrastiveCross-teachingWithRegistration
-The codes for the work "Learning Semi-Supervised Medical Image Segmentation\\from Spatial Registration"[https://ieeexplore.ieee.org/abstract/document/10096379], which is accepted by WACV 2025.
+The codes for the work "Learning Semi-Supervised Medical Image Segmentation from Spatial Registration"[https://ieeexplore.ieee.org/abstract/document/10096379], which is accepted by WACV 2025.
 
 
 ## 1. Prepare data
@@ -8,7 +8,7 @@ The codes for the work "Learning Semi-Supervised Medical Image Segmentation\\fro
 
 ## 2. Environment
 
-- Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
+- Please prepare an environment with python=3.9, and then use the command "pip install -r requirements.txt" for the dependencies.
 
 ## 3. Train/Test
 
@@ -27,9 +27,7 @@ sh my_test.sh
 ```
 
 ## References
-* [TransUnet](https://github.com/Beckschen/TransUNet)
-* [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
-* [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
+* [MCSC](https://github.com/kathyliu579/MCSC)
 
 ## Citation
 @inproceedings{liu2025learning,
